@@ -1,7 +1,26 @@
 # learn-php-laravel
-phpとlaravelを描けるようになる
+phpとlaravelを書けるようになる
 
-### 環境構築(Mac)
+### リポジトリの目的
+phpとlaravelについて学びを書けるようになること
+
+### ディレクトリ構成  
+フォルダ単位で説明  
+- docs：メモを記載
+```
+.
+├── LICENSE
+├── README.md
+├── docs
+│   └── basic-grammer.md
+└── main.php
+```
+
+### オーナー
+take2405
+
+---
+# 環境構築(Mac)
 - phpをインストール  
 
 ```
