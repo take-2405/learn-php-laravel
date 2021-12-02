@@ -26,11 +26,31 @@ source $HOME/.phpbrew/bashrc
 ```
 
 - 参考サイト  
-https://github.com/phpbrew/phpbrew/wiki/Requirement#HomeBrew  
+    - https://github.com/phpbrew/phpbrew/wiki/Requirement#HomeBrew  
 https://yurupro.cloud/2070/#toc4
+    - https://github.com/phpbrew/phpbrew/blob/master/README.ja.md
 
+
+### phpbrew使用方法  
+わざわざ書くのは面倒なので一部のみ記載、詳細は参考記事を利用する  
+- インストール可能versionの確認  
+```
+phpbrew known
+```
+- インストール
+```
+phpbrew install 5.5.24 +default
+```
+- バージョン切り替え
+```
+phpbrew switch 5.5.24
+```
+- 参考記事  
+https://github.com/phpbrew/phpbrew/blob/master/README.ja.md
 
 ## メモ
  #### phpとJavaScriptの違い
  - phpはサーバーサイドで実行される
  - JavaScriptはクライアントサイドで実行される
+ #### バリアント  
+ - php拡張モジュールの管理をしてくるもの
