@@ -9,6 +9,10 @@ phpとlaravelについて学び、書けるようになること
 - docs：メモを記載
     - 環境構築　
     - 基本文法
+
+- sample
+    - サンプルプロジェクトを追加
+
 ```
 .
 ├── LICENSE
@@ -16,6 +20,7 @@ phpとlaravelについて学び、書けるようになること
 ├── docs
 │   └── basic-grammer.md
 │   └── to-construct.md
+├── sample
 └── main.php
 ```
 
