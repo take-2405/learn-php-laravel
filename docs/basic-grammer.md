@@ -46,3 +46,7 @@ foreach ($nums as $num) {
 }
 
 ```
+-　文字列の連結
+```
+$sampleStr="a" . "b" . "c";
+```
