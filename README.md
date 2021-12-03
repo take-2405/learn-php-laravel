@@ -24,8 +24,6 @@ phpとlaravelについて学び、書けるようになること
 └── main.php
 ```
 
-### オーナー
-take2405
 
 ## メモ
  #### phpとJavaScriptの違い
@@ -33,3 +31,10 @@ take2405
  - JavaScriptはクライアントサイドで実行される
  #### バリアント  
  - php拡張モジュールの管理をしてくるもの
+
+## 今後のやってみたいこと
+
+https://zenn.dev/qst/books/f49e20f55253fa2ba0d0/viewer/chapter7#todo%E4%B8%80%E8%A6%A7%E3%81%AE%E4%BD%9C%E6%88%90
+
+### オーナー
+take2405
