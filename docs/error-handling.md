@@ -15,7 +15,7 @@ composer update
 
 ```
 // .envファイル作成
-copy .env.example .env
+cp .env.example .env
 
 // APP_KEYの作成
 php artisan key:generate
